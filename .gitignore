@@ -1,0 +1,7 @@
+# Yerel / üretim dışı dosyalar
+.DS_Store
+Thumbs.db
+*.log
+
+# Kullanıcı yüklemeleri (üretimde sunucuda kalır)
+# uploads/*
