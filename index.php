@@ -44,7 +44,7 @@ $roman = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII'];
             <div class="hero__meta">
                 <span><b><?php echo count($kavramlar); ?></b> Temel Kavram</span>
                 <span><b><?php echo count($eserler); ?></b> Eser &amp; Risale</span>
-                <span><b>IX.</b> Asır Hikmeti</span>
+                <span><b>XII.</b> Yüzyıl Hikmeti</span>
             </div>
         </div>
 
